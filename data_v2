@@ -1,0 +1,32 @@
+[
+  {
+    "name_en": "Karthik",
+    "name_ta": "கார்த்திக்",
+    "gender": "Boy",
+    "meaning_en": "Commander of army",
+    "meaning_ta": "படைவீரர்",
+    "starting_syllable_en": "Vi",
+    "starting_syllable_ta": "வி",
+    "tag_en": ["Traditional", "Popular"],
+    "tag_ta": ["பாரம்பரியம்", "பிரபலமானது"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "name_en": "Divya",
+    "name_ta": "திவ்யா",
+    "gender": "Girl",
+    "meaning_en": "Divine, Heavenly",
+    "meaning_ta": "தெய்வீகமானது",
+    "starting_syllable_en": "A",
+    "starting_syllable_ta": "அ",
+    "tag_en": ["Modern", "Spiritual"],
+    "tag_ta": ["நவீனம்", "ஆன்மிகம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  }
+]
