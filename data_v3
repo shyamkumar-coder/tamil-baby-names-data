@@ -1,35 +1,6 @@
 [
   {
-    "name_en": "Aarav",
-    "name_ta": "ஆரவ்",
-    "gender": "Boy",
-    "meaning_en": "Peaceful, musical note",
-    "meaning_ta": "அமைதியான, இசைக்குறிப்பு",
-    "starting_syllable_en": "Aa",
-    "starting_syllable_ta": "ஆ",
-    "tag_en": ["Modern", "Popular"],
-    "tag_ta": ["நவீன", "பிரபலமானது"],
-    "religion_en": "Hindu",
-    "religion_ta": "இந்து",
-    "origin_en": "Sanskrit",
-    "origin_ta": "சமஸ்கிருதம்"
-  },
-  {
-    "name_en": "Anika",
-    "name_ta": "அனிகா",
-    "gender": "Girl",
-    "meaning_en": "Grace, Goddess Durga",
-    "meaning_ta": "அருள், துர்கா தேவி",
-    "starting_syllable_en": "A",
-    "starting_syllable_ta": "அ",
-    "tag_en": ["Spiritual", "Popular"],
-    "tag_ta": ["ஆன்மிகம்", "பிரபலமானது"],
-    "religion_en": "Hindu",
-    "religion_ta": "இந்து",
-    "origin_en": "Sanskrit",
-    "origin_ta": "சமஸ்கிருதம்"
-  },
-  {
+    "id": "1",
     "name_en": "Karthik",
     "name_ta": "கார்த்திக்",
     "gender": "Boy",
@@ -45,6 +16,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "2",
     "name_en": "Divya",
     "name_ta": "திவ்யா",
     "gender": "Girl",
@@ -60,6 +32,39 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "3",
+    "name_en": "Aarav",
+    "name_ta": "ஆரவ்",
+    "gender": "Boy",
+    "meaning_en": "Peaceful, musical note",
+    "meaning_ta": "அமைதியான, இசைக்குறிப்பு",
+    "starting_syllable_en": "Aa",
+    "starting_syllable_ta": "ஆ",
+    "tag_en": ["Modern", "Popular"],
+    "tag_ta": ["நவீன", "பிரபலமானது"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "4",
+    "name_en": "Anika",
+    "name_ta": "அனிகா",
+    "gender": "Girl",
+    "meaning_en": "Grace, Goddess Durga",
+    "meaning_ta": "அருள், துர்கா தேவி",
+    "starting_syllable_en": "A",
+    "starting_syllable_ta": "அ",
+    "tag_en": ["Spiritual", "Popular"],
+    "tag_ta": ["ஆன்மிகம்", "பிரபலமானது"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "5",
     "name_en": "Arjun",
     "name_ta": "அர்ஜுன்",
     "gender": "Boy",
@@ -75,6 +80,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "6",
     "name_en": "Priya",
     "name_ta": "பிரியா",
     "gender": "Girl",
@@ -90,6 +96,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "7",
     "name_en": "Vishnu",
     "name_ta": "விஷ்ணு",
     "gender": "Boy",
@@ -105,6 +112,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "8",
     "name_en": "Lakshmi",
     "name_ta": "லக்ஷ்மி",
     "gender": "Girl",
@@ -120,6 +128,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "9",
     "name_en": "Siddharth",
     "name_ta": "சித்தார்த்",
     "gender": "Boy",
@@ -135,6 +144,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "10",
     "name_en": "Aditi",
     "name_ta": "அதிதி",
     "gender": "Girl",
@@ -150,6 +160,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "11",
     "name_en": "Rohan",
     "name_ta": "ரோஹன்",
     "gender": "Boy",
@@ -165,6 +176,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "12",
     "name_en": "Kavya",
     "name_ta": "காவ்யா",
     "gender": "Girl",
@@ -180,6 +192,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "13",
     "name_en": "Aditya",
     "name_ta": "ஆதித்யா",
     "gender": "Boy",
@@ -195,6 +208,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "14",
     "name_en": "Sanjana",
     "name_ta": "சஞ்சனா",
     "gender": "Girl",
@@ -210,6 +224,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "15",
     "name_en": "Varun",
     "name_ta": "வருண்",
     "gender": "Boy",
@@ -225,6 +240,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "16",
     "name_en": "Nithya",
     "name_ta": "நித்யா",
     "gender": "Girl",
@@ -240,6 +256,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "17",
     "name_en": "Ganesh",
     "name_ta": "கணேஷ்",
     "gender": "Boy",
@@ -255,6 +272,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "18",
     "name_en": "Shreya",
     "name_ta": "ஸ்ரேயா",
     "gender": "Girl",
@@ -270,6 +288,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "19",
     "name_en": "Prakash",
     "name_ta": "பிரகாஷ்",
     "gender": "Boy",
@@ -285,6 +304,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "20",
     "name_en": "Sneha",
     "name_ta": "ஸ்நேஹா",
     "gender": "Girl",
@@ -300,6 +320,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "21",
     "name_en": "Harish",
     "name_ta": "ஹரிஷ்",
     "gender": "Boy",
@@ -315,6 +336,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "22",
     "name_en": "Pooja",
     "name_ta": "பூஜா",
     "gender": "Girl",
@@ -330,6 +352,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "23",
     "name_en": "Suresh",
     "name_ta": "சுரேஷ்",
     "gender": "Boy",
@@ -345,6 +368,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "24",
     "name_en": "Deepa",
     "name_ta": "தீபா",
     "gender": "Girl",
@@ -360,6 +384,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "25",
     "name_en": "Anand",
     "name_ta": "ஆனந்த்",
     "gender": "Boy",
@@ -375,6 +400,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "26",
     "name_en": "Meena",
     "name_ta": "மீனா",
     "gender": "Girl",
@@ -390,6 +416,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "27",
     "name_en": "Rajesh",
     "name_ta": "ராஜேஷ்",
     "gender": "Boy",
@@ -405,6 +432,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "28",
     "name_en": "Revathi",
     "name_ta": "ரேவதி",
     "gender": "Girl",
@@ -420,6 +448,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "29",
     "name_en": "Siva",
     "name_ta": "சிவா",
     "gender": "Boy",
@@ -435,6 +464,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "30",
     "name_en": "Yamini",
     "name_ta": "யாழினி",
     "gender": "Girl",
@@ -450,6 +480,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "31",
     "name_en": "Manoj",
     "name_ta": "மனோஜ்",
     "gender": "Boy",
@@ -465,6 +496,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "32",
     "name_en": "Saranya",
     "name_ta": "சரண்யா",
     "gender": "Girl",
@@ -480,6 +512,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "33",
     "name_en": "Ajay",
     "name_ta": "அஜய்",
     "gender": "Boy",
@@ -495,6 +528,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "34",
     "name_en": "Indira",
     "name_ta": "இந்திரா",
     "gender": "Girl",
@@ -510,6 +544,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "35",
     "name_en": "Pranav",
     "name_ta": "பிரணவ்",
     "gender": "Boy",
@@ -525,6 +560,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "36",
     "name_en": "Sakshi",
     "name_ta": "சாக்ஷி",
     "gender": "Girl",
@@ -540,6 +576,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "37",
     "name_en": "Vignesh",
     "name_ta": "விக்னேஷ்",
     "gender": "Boy",
@@ -555,6 +592,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "38",
     "name_en": "Anjali",
     "name_ta": "அஞ்சலி",
     "gender": "Girl",
@@ -570,6 +608,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "39",
     "name_en": "Rahul",
     "name_ta": "ராகுல்",
     "gender": "Boy",
@@ -585,6 +624,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "40",
     "name_en": "Anushka",
     "name_ta": "அனுஷ்கா",
     "gender": "Girl",
@@ -600,6 +640,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "41",
     "name_en": "Akash",
     "name_ta": "ஆகாஷ்",
     "gender": "Boy",
@@ -615,6 +656,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "42",
     "name_en": "Neha",
     "name_ta": "நேஹா",
     "gender": "Girl",
@@ -630,6 +672,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "43",
     "name_en": "Dinesh",
     "name_ta": "தினேஷ்",
     "gender": "Boy",
@@ -645,6 +688,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "44",
     "name_en": "Trisha",
     "name_ta": "த்ரிஷா",
     "gender": "Girl",
@@ -660,6 +704,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "45",
     "name_en": "Sanjay",
     "name_ta": "சஞ்சய்",
     "gender": "Boy",
@@ -675,6 +720,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "46",
     "name_en": "Rina",
     "name_ta": "ரீனா",
     "gender": "Girl",
@@ -690,6 +736,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "47",
     "name_en": "Amit",
     "name_ta": "அமித்",
     "gender": "Boy",
@@ -705,6 +752,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "48",
     "name_en": "Swathi",
     "name_ta": "சுவாதி",
     "gender": "Girl",
@@ -720,6 +768,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "49",
     "name_en": "Kishore",
     "name_ta": "கிஷோர்",
     "gender": "Boy",
@@ -735,6 +784,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "50",
     "name_en": "Seetha",
     "name_ta": "சீதா",
     "gender": "Girl",
@@ -750,6 +800,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "51",
     "name_en": "Bharath",
     "name_ta": "பரத்",
     "gender": "Boy",
@@ -765,6 +816,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "52",
     "name_en": "Ranjini",
     "name_ta": "ரஞ்சினி",
     "gender": "Girl",
@@ -780,6 +832,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "53",
     "name_en": "Vivek",
     "name_ta": "விவேக்",
     "gender": "Boy",
@@ -795,6 +848,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "54",
     "name_en": "Shalini",
     "name_ta": "ஷாலினி",
     "gender": "Girl",
@@ -810,6 +864,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "55",
     "name_en": "Arun",
     "name_ta": "அருண்",
     "gender": "Boy",
@@ -825,6 +880,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "56",
     "name_en": "Sandhya",
     "name_ta": "சந்தியா",
     "gender": "Girl",
@@ -840,6 +896,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "57",
     "name_en": "Murali",
     "name_ta": "முரளி",
     "gender": "Boy",
@@ -855,6 +912,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "58",
     "name_en": "Amrita",
     "name_ta": "அமிர்தா",
     "gender": "Girl",
@@ -870,6 +928,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "59",
     "name_en": "Rakesh",
     "name_ta": "ராகேஷ்",
     "gender": "Boy",
@@ -885,6 +944,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "60",
     "name_en": "Ishani",
     "name_ta": "இஷானி",
     "gender": "Girl",
@@ -900,6 +960,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "61",
     "name_en": "Dhanush",
     "name_ta": "தனுஷ்",
     "gender": "Boy",
@@ -915,6 +976,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "62",
     "name_en": "Priyanka",
     "name_ta": "பிரியங்கா",
     "gender": "Girl",
@@ -930,6 +992,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "63",
     "name_en": "Sridhar",
     "name_ta": "ஸ்ரீதர்",
     "gender": "Boy",
@@ -945,21 +1008,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
-    "name_en": "Anjali",
-    "name_ta": "அஞ்சலி",
-    "gender": "Girl",
-    "meaning_en": "Offering, homage",
-    "meaning_ta": "அர்ப்பணிப்பு, மரியாதை",
-    "starting_syllable_en": "An",
-    "starting_syllable_ta": "அஞ்",
-    "tag_en": ["Traditional", "Graceful"],
-    "tag_ta": ["பாரம்பரியம்", "அழகான"],
-    "religion_en": "Hindu",
-    "religion_ta": "இந்து",
-    "origin_en": "Sanskrit",
-    "origin_ta": "சமஸ்கிருதம்"
-  },
-  {
+    "id": "64",
     "name_en": "Varsha",
     "name_ta": "வர்ஷா",
     "gender": "Girl",
@@ -975,6 +1024,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "65",
     "name_en": "Balaji",
     "name_ta": "பாலாஜி",
     "gender": "Boy",
@@ -990,6 +1040,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "66",
     "name_en": "Shruti",
     "name_ta": "ஷ்ருதி",
     "gender": "Girl",
@@ -1005,6 +1056,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "67",
     "name_en": "Kiran",
     "name_ta": "கிரண்",
     "gender": "Unisex",
@@ -1020,6 +1072,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "68",
     "name_en": "Vidya",
     "name_ta": "வித்யா",
     "gender": "Girl",
@@ -1035,6 +1088,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "69",
     "name_en": "Mahesh",
     "name_ta": "மகேஷ்",
     "gender": "Boy",
@@ -1050,6 +1104,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "70",
     "name_en": "Anjali",
     "name_ta": "அஞ்சலி",
     "gender": "Girl",
@@ -1065,6 +1120,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "71",
     "name_en": "Vinod",
     "name_ta": "வினோத்",
     "gender": "Boy",
@@ -1080,6 +1136,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "72",
     "name_en": "Jyothi",
     "name_ta": "ஜோதி",
     "gender": "Girl",
@@ -1095,6 +1152,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "73",
     "name_en": "Santhosh",
     "name_ta": "சந்தோஷ்",
     "gender": "Boy",
@@ -1110,6 +1168,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "74",
     "name_en": "Priya",
     "name_ta": "பிரியா",
     "gender": "Girl",
@@ -1125,6 +1184,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "75",
     "name_en": "Kavitha",
     "name_ta": "கவிதா",
     "gender": "Girl",
@@ -1140,6 +1200,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "76",
     "name_en": "Dinesh",
     "name_ta": "தினேஷ்",
     "gender": "Boy",
@@ -1155,6 +1216,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "77",
     "name_en": "Saravana",
     "name_ta": "சரவணன்",
     "gender": "Boy",
@@ -1170,6 +1232,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "78",
     "name_en": "Mythili",
     "name_ta": "மைதிலி",
     "gender": "Girl",
@@ -1185,6 +1248,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "79",
     "name_en": "Kannan",
     "name_ta": "கண்ணன்",
     "gender": "Boy",
@@ -1200,6 +1264,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "80",
     "name_en": "Vaishnavi",
     "name_ta": "வைஷ்ணவி",
     "gender": "Girl",
@@ -1215,6 +1280,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "81",
     "name_en": "Sakthi",
     "name_ta": "சக்தி",
     "gender": "Unisex",
@@ -1230,6 +1296,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "82",
     "name_en": "Rithika",
     "name_ta": "ரித்திகா",
     "gender": "Girl",
@@ -1245,6 +1312,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "83",
     "name_en": "Surya",
     "name_ta": "சூர்யா",
     "gender": "Unisex",
@@ -1260,6 +1328,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "84",
     "name_en": "Niveditha",
     "name_ta": "நிவேதிதா",
     "gender": "Girl",
@@ -1275,6 +1344,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "85",
     "name_en": "Sathish",
     "name_ta": "சதீஷ்",
     "gender": "Boy",
@@ -1290,6 +1360,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "86",
     "name_en": "Padma",
     "name_ta": "பத்மா",
     "gender": "Girl",
@@ -1305,6 +1376,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "87",
     "name_en": "Subramanian",
     "name_ta": "சுப்ரமணியன்",
     "gender": "Boy",
@@ -1320,6 +1392,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "88",
     "name_en": "Vasuki",
     "name_ta": "வாசுகி",
     "gender": "Girl",
@@ -1335,6 +1408,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "89",
     "name_en": "Pradeep",
     "name_ta": "பிரதீப்",
     "gender": "Boy",
@@ -1350,6 +1424,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "90",
     "name_en": "Vimala",
     "name_ta": "விமலா",
     "gender": "Girl",
@@ -1365,6 +1440,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "91",
     "name_en": "Sekar",
     "name_ta": "சேகர்",
     "gender": "Boy",
@@ -1380,6 +1456,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "92",
     "name_en": "Nalini",
     "name_ta": "நளினி",
     "gender": "Girl",
@@ -1395,6 +1472,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "93",
     "name_en": "Magesh",
     "name_ta": "மகேஷ்",
     "gender": "Boy",
@@ -1410,6 +1488,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "94",
     "name_en": "Indhu",
     "name_ta": "இந்து",
     "gender": "Girl",
@@ -1425,6 +1504,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "95",
     "name_en": "Praveen",
     "name_ta": "பிரவீன்",
     "gender": "Boy",
@@ -1440,6 +1520,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "96",
     "name_en": "Thulasi",
     "name_ta": "துளசி",
     "gender": "Girl",
@@ -1455,6 +1536,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "97",
     "name_en": "Ram",
     "name_ta": "ராம்",
     "gender": "Boy",
@@ -1470,6 +1552,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "98",
     "name_en": "Gayathri",
     "name_ta": "காயத்ரி",
     "gender": "Girl",
@@ -1485,6 +1568,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "99",
     "name_en": "Kavin",
     "name_ta": "கவின்",
     "gender": "Boy",
@@ -1500,6 +1584,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "100",
     "name_en": "Sharmila",
     "name_ta": "ஷர்மிளா",
     "gender": "Girl",
@@ -1515,6 +1600,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "101",
     "name_en": "Ashok",
     "name_ta": "அசோக்",
     "gender": "Boy",
@@ -1530,6 +1616,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "102",
     "name_en": "Bhavani",
     "name_ta": "பவானி",
     "gender": "Girl",
@@ -1545,6 +1632,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "103",
     "name_en": "Gautham",
     "name_ta": "கௌதம்",
     "gender": "Boy",
@@ -1560,6 +1648,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "104",
     "name_en": "Nandhini",
     "name_ta": "நந்தினி",
     "gender": "Girl",
@@ -1575,6 +1664,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "105",
     "name_en": "Saravanan",
     "name_ta": "சரவணன்",
     "gender": "Boy",
@@ -1590,6 +1680,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "106",
     "name_en": "Deepika",
     "name_ta": "தீபிகா",
     "gender": "Girl",
@@ -1605,6 +1696,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "107",
     "name_en": "Gopalan",
     "name_ta": "கோபாலன்",
     "gender": "Boy",
@@ -1620,6 +1712,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "108",
     "name_en": "Vasanthi",
     "name_ta": "வசந்தி",
     "gender": "Girl",
@@ -1635,6 +1728,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "109",
     "name_en": "Hari",
     "name_ta": "ஹரி",
     "gender": "Boy",
@@ -1650,6 +1744,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "110",
     "name_en": "Meena",
     "name_ta": "மீனா",
     "gender": "Girl",
@@ -1665,6 +1760,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "111",
     "name_en": "Ravi",
     "name_ta": "ரவி",
     "gender": "Boy",
@@ -1680,6 +1776,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "112",
     "name_en": "Sowmya",
     "name_ta": "சௌமியா",
     "gender": "Girl",
@@ -1695,6 +1792,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "113",
     "name_en": "Velmurugan",
     "name_ta": "வேல்முருகன்",
     "gender": "Boy",
@@ -1710,6 +1808,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "114",
     "name_en": "Sindhu",
     "name_ta": "சிந்து",
     "gender": "Girl",
@@ -1725,6 +1824,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "115",
     "name_en": "Kumaran",
     "name_ta": "குமரன்",
     "gender": "Boy",
@@ -1740,6 +1840,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "116",
     "name_en": "Shanthi",
     "name_ta": "சாந்தி",
     "gender": "Girl",
@@ -1755,6 +1856,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "117",
     "name_en": "Selvan",
     "name_ta": "செல்வன்",
     "gender": "Boy",
@@ -1770,6 +1872,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "118",
     "name_en": "Jothi",
     "name_ta": "ஜோதி",
     "gender": "Girl",
@@ -1785,6 +1888,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "119",
     "name_en": "Senthil",
     "name_ta": "செந்தில்",
     "gender": "Boy",
@@ -1800,6 +1904,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "120",
     "name_en": "Uma",
     "name_ta": "உமா",
     "gender": "Girl",
@@ -1815,6 +1920,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "121",
     "name_en": "Sakthivel",
     "name_ta": "சக்திவேல்",
     "gender": "Boy",
@@ -1830,6 +1936,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "122",
     "name_en": "Vasantha",
     "name_ta": "வசந்தா",
     "gender": "Girl",
@@ -1845,6 +1952,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "123",
     "name_en": "Mithun",
     "name_ta": "மிதுன்",
     "gender": "Boy",
@@ -1860,6 +1968,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "124",
     "name_en": "Sonia",
     "name_ta": "சோனியா",
     "gender": "Girl",
@@ -1875,6 +1984,7 @@
     "origin_ta": "கிரேக்கம்"
   },
   {
+    "id": "125",
     "name_en": "Karthikeyan",
     "name_ta": "கார்த்திகேயன்",
     "gender": "Boy",
@@ -1890,6 +2000,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "126",
     "name_en": "Anitha",
     "name_ta": "அனிதா",
     "gender": "Girl",
@@ -1905,6 +2016,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "127",
     "name_en": "Guru",
     "name_ta": "குரு",
     "gender": "Boy",
@@ -1920,6 +2032,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "128",
     "name_en": "Kala",
     "name_ta": "கலா",
     "gender": "Girl",
@@ -1935,6 +2048,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "129",
     "name_en": "Senthil Kumar",
     "name_ta": "செந்தில்குமார்",
     "gender": "Boy",
@@ -1950,6 +2064,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "130",
     "name_en": "Malini",
     "name_ta": "மாலினி",
     "gender": "Girl",
@@ -1965,6 +2080,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "131",
     "name_en": "Ramesh",
     "name_ta": "ரமேஷ்",
     "gender": "Boy",
@@ -1980,6 +2096,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "132",
     "name_en": "Divya Shree",
     "name_ta": "திவ்யஸ்ரீ",
     "gender": "Girl",
@@ -1995,6 +2112,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "133",
     "name_en": "Anil",
     "name_ta": "அனில்",
     "gender": "Boy",
@@ -2010,6 +2128,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "134",
     "name_en": "Shalini",
     "name_ta": "ஷாலினி",
     "gender": "Girl",
@@ -2025,6 +2144,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "135",
     "name_en": "Kumar",
     "name_ta": "குமார்",
     "gender": "Boy",
@@ -2040,6 +2160,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "136",
     "name_en": "Amala",
     "name_ta": "அமலா",
     "gender": "Girl",
@@ -2055,6 +2176,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "137",
     "name_en": "Raj",
     "name_ta": "ராஜ்",
     "gender": "Boy",
@@ -2070,6 +2192,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "138",
     "name_en": "Renuka",
     "name_ta": "ரேணுகா",
     "gender": "Girl",
@@ -2085,6 +2208,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "139",
     "name_en": "Mithra",
     "name_ta": "மித்ரா",
     "gender": "Unisex",
@@ -2100,6 +2224,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "140",
     "name_en": "Soundarya",
     "name_ta": "சௌந்தர்யா",
     "gender": "Girl",
@@ -2115,6 +2240,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "141",
     "name_en": "Sarvesh",
     "name_ta": "சர்வேஷ்",
     "gender": "Boy",
@@ -2130,6 +2256,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "142",
     "name_en": "Sumathi",
     "name_ta": "சுமதி",
     "gender": "Girl",
@@ -2145,6 +2272,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "143",
     "name_en": "Vasanth",
     "name_ta": "வசந்த்",
     "gender": "Boy",
@@ -2160,6 +2288,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "144",
     "name_en": "Geetha",
     "name_ta": "கீதா",
     "gender": "Girl",
@@ -2175,21 +2304,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
-    "name_en": "Arjun",
-    "name_ta": "அர்ஜுன்",
-    "gender": "Boy",
-    "meaning_en": "Bright, white, Pandava prince",
-    "meaning_ta": "பிரகாசமான, வெள்ளை, பாண்டவ இளவரசன்",
-    "starting_syllable_en": "Ar",
-    "starting_syllable_ta": "அர்",
-    "tag_en": ["Mythological", "Popular"],
-    "tag_ta": ["புராண", "பிரபலமானது"],
-    "religion_en": "Hindu",
-    "religion_ta": "இந்து",
-    "origin_en": "Sanskrit",
-    "origin_ta": "சமஸ்கிருதம்"
-  },
-  {
+    "id": "145",
     "name_en": "Indumathi",
     "name_ta": "இந்துமதி",
     "gender": "Girl",
@@ -2205,6 +2320,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "146",
     "name_en": "Naveen",
     "name_ta": "நவீன்",
     "gender": "Boy",
@@ -2220,6 +2336,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "147",
     "name_en": "Thamarai",
     "name_ta": "தாமரை",
     "gender": "Girl",
@@ -2235,6 +2352,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "148",
     "name_en": "Vijay",
     "name_ta": "விஜய்",
     "gender": "Boy",
@@ -2250,6 +2368,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "149",
     "name_en": "Anamika",
     "name_ta": "அனாமிகா",
     "gender": "Girl",
@@ -2265,6 +2384,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "150",
     "name_en": "Krishna",
     "name_ta": "கிருஷ்ணா",
     "gender": "Boy",
@@ -2280,6 +2400,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "151",
     "name_en": "Ramya",
     "name_ta": "ரம்யா",
     "gender": "Girl",
@@ -2295,6 +2416,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "152",
     "name_en": "Sivakumar",
     "name_ta": "சிவகுகுமார்",
     "gender": "Boy",
@@ -2310,6 +2432,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "153",
     "name_en": "Sangeetha",
     "name_ta": "சங்கீதா",
     "gender": "Girl",
@@ -2325,6 +2448,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "154",
     "name_en": "Sakthivel",
     "name_ta": "சக்திவேல்",
     "gender": "Boy",
@@ -2340,6 +2464,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "155",
     "name_en": "Valli",
     "name_ta": "வள்ளி",
     "gender": "Girl",
@@ -2355,6 +2480,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "156",
     "name_en": "Prashanth",
     "name_ta": "பிரசாந்த்",
     "gender": "Boy",
@@ -2370,6 +2496,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "157",
     "name_en": "Suganya",
     "name_ta": "சுகன்யா",
     "gender": "Girl",
@@ -2385,6 +2512,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "158",
     "name_en": "Sivan",
     "name_ta": "சிவன்",
     "gender": "Boy",
@@ -2400,6 +2528,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "159",
     "name_en": "Thenmozhi",
     "name_ta": "தேன்மொழி",
     "gender": "Girl",
@@ -2415,6 +2544,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "160",
     "name_en": "Vasan",
     "name_ta": "வசன்",
     "gender": "Boy",
@@ -2430,6 +2560,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "161",
     "name_en": "Subha",
     "name_ta": "சுபா",
     "gender": "Girl",
@@ -2445,6 +2576,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "162",
     "name_en": "Muthu",
     "name_ta": "முத்து",
     "gender": "Boy",
@@ -2460,6 +2592,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "163",
     "name_en": "Chithra",
     "name_ta": "சித்ரா",
     "gender": "Girl",
@@ -2475,6 +2608,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "164",
     "name_en": "Kishore Kumar",
     "name_ta": "கிஷோர்குமார்",
     "gender": "Boy",
@@ -2490,6 +2624,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "165",
     "name_en": "Karthika",
     "name_ta": "கார்த்திகா",
     "gender": "Girl",
@@ -2505,6 +2640,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "166",
     "name_en": "Sundar",
     "name_ta": "சுந்தர்",
     "gender": "Boy",
@@ -2520,6 +2656,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "167",
     "name_en": "Thennammal",
     "name_ta": "தென்னம்மாள்",
     "gender": "Girl",
@@ -2535,6 +2672,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "168",
     "name_en": "Sarveshwaran",
     "name_ta": "சர்வேஸ்வரன்",
     "gender": "Boy",
@@ -2550,6 +2688,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "169",
     "name_en": "Vanitha",
     "name_ta": "வனிதா",
     "gender": "Girl",
@@ -2565,6 +2704,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "170",
     "name_en": "Amuthan",
     "name_ta": "அமுதன்",
     "gender": "Boy",
@@ -2580,6 +2720,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "171",
     "name_en": "Meenakshi",
     "name_ta": "மீனாட்சி",
     "gender": "Girl",
@@ -2595,6 +2736,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "172",
     "name_en": "Ragavan",
     "name_ta": "ராகவன்",
     "gender": "Boy",
@@ -2610,6 +2752,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "173",
     "name_en": "Sruthi",
     "name_ta": "ஸ்ருதி",
     "gender": "Girl",
@@ -2625,6 +2768,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "174",
     "name_en": "Velu",
     "name_ta": "வேலு",
     "gender": "Boy",
@@ -2640,6 +2784,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "175",
     "name_en": "Sivaranjani",
     "name_ta": "சிவரஞ்சனி",
     "gender": "Girl",
@@ -2655,6 +2800,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "176",
     "name_en": "Thirumurugan",
     "name_ta": "திருமுருகன்",
     "gender": "Boy",
@@ -2670,6 +2816,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "177",
     "name_en": "Selvi",
     "name_ta": "செல்வி",
     "gender": "Girl",
@@ -2685,6 +2832,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "178",
     "name_en": "Prasanth",
     "name_ta": "பிரசாந்த்",
     "gender": "Boy",
@@ -2700,6 +2848,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "179",
     "name_en": "Nithya Shree",
     "name_ta": "நித்யஸ்ரீ",
     "gender": "Girl",
@@ -2715,6 +2864,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "180",
     "name_en": "Vasanthakumar",
     "name_ta": "வசந்தகுமார்",
     "gender": "Boy",
@@ -2730,6 +2880,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "181",
     "name_en": "Revathi Priya",
     "name_ta": "ரேவதிபிரியா",
     "gender": "Girl",
@@ -2745,6 +2896,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "182",
     "name_en": "Kumaresan",
     "name_ta": "குமரேசன்",
     "gender": "Boy",
@@ -2760,6 +2912,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "183",
     "name_en": "Soundarya Devi",
     "name_ta": "சௌந்தர்யா தேவி",
     "gender": "Girl",
@@ -2775,6 +2928,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "184",
     "name_en": "Manikandan",
     "name_ta": "மணிகண்டன்",
     "gender": "Boy",
@@ -2790,6 +2944,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "185",
     "name_en": "Deepalakshmi",
     "name_ta": "தீபலட்சுமி",
     "gender": "Girl",
@@ -2805,6 +2960,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "186",
     "name_en": "Rajaram",
     "name_ta": "ராஜாராம்",
     "gender": "Boy",
@@ -2820,6 +2976,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "187",
     "name_en": "Tharani",
     "name_ta": "தரணி",
     "gender": "Girl",
@@ -2835,6 +2992,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "188",
     "name_en": "Kuralarasan",
     "name_ta": "குறளரசன்",
     "gender": "Boy",
@@ -2850,6 +3008,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "189",
     "name_en": "Naveena",
     "name_ta": "நவீன",
     "gender": "Girl",
@@ -2865,6 +3024,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "190",
     "name_en": "Sakthivel",
     "name_ta": "சக்திவேல்",
     "gender": "Boy",
@@ -2880,6 +3040,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "191",
     "name_en": "Vaishali",
     "name_ta": "வைஷாலி",
     "gender": "Girl",
@@ -2895,6 +3056,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "192",
     "name_en": "Chandran",
     "name_ta": "சந்திரன்",
     "gender": "Boy",
@@ -2910,6 +3072,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "193",
     "name_en": "Kavimalar",
     "name_ta": "கவிமலர்",
     "gender": "Girl",
@@ -2925,6 +3088,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "194",
     "name_en": "Dharmaraj",
     "name_ta": "தர்மராஜ்",
     "gender": "Boy",
@@ -2940,6 +3104,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "195",
     "name_en": "Thulasimani",
     "name_ta": "துளசிமணி",
     "gender": "Girl",
@@ -2955,6 +3120,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "196",
     "name_en": "Saravanan",
     "name_ta": "சரவணன்",
     "gender": "Boy",
@@ -2970,6 +3136,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "197",
     "name_en": "Yamuna",
     "name_ta": "யமுனா",
     "gender": "Girl",
@@ -2985,6 +3152,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "198",
     "name_en": "Bharani",
     "name_ta": "பரணி",
     "gender": "Unisex",
@@ -3000,6 +3168,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "199",
     "name_en": "Shalini Devi",
     "name_ta": "ஷாலினி தேவி",
     "gender": "Girl",
@@ -3015,6 +3184,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "200",
     "name_en": "Velayudham",
     "name_ta": "வேலாயுதம்",
     "gender": "Boy",
@@ -3030,6 +3200,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "201",
     "name_en": "Sowmya Lakshmi",
     "name_ta": "சௌமியா லட்சுமி",
     "gender": "Girl",
@@ -3045,6 +3216,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "202",
     "name_en": "Muthukumar",
     "name_ta": "முத்துகுமார்",
     "gender": "Boy",
@@ -3060,6 +3232,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "203",
     "name_en": "Karthika Devi",
     "name_ta": "கார்த்திகா தேவி",
     "gender": "Girl",
@@ -3075,6 +3248,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "204",
     "name_en": "Sundararajan",
     "name_ta": "சுந்தரராஜன்",
     "gender": "Boy",
@@ -3090,6 +3264,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "205",
     "name_en": "Nandhini Priya",
     "name_ta": "நந்தினிபிரியா",
     "gender": "Girl",
@@ -3105,6 +3280,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "206",
     "name_en": "Vasanthara",
     "name_ta": "வசந்தரா",
     "gender": "Girl",
@@ -3120,6 +3296,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "207",
     "name_en": "Manju",
     "name_ta": "மஞ்சு",
     "gender": "Unisex",
@@ -3135,6 +3312,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "208",
     "name_en": "Sakthimurugan",
     "name_ta": "சக்திமுருகன்",
     "gender": "Boy",
@@ -3150,6 +3328,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "209",
     "name_en": "Thulasi Raman",
     "name_ta": "துளசி ராமன்",
     "gender": "Boy",
@@ -3165,6 +3344,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "210",
     "name_en": "Nithya Anand",
     "name_ta": "நித்யானந்த்",
     "gender": "Boy",
@@ -3180,6 +3360,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "211",
     "name_en": "Prakashini",
     "name_ta": "பிரகாஷினி",
     "gender": "Girl",
@@ -3195,6 +3376,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "212",
     "name_en": "Gokul",
     "name_ta": "கோகுல்",
     "gender": "Boy",
@@ -3210,6 +3392,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "213",
     "name_en": "Shanthini",
     "name_ta": "ஷாந்தினி",
     "gender": "Girl",
@@ -3225,6 +3408,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "214",
     "name_en": "Selvaraj",
     "name_ta": "செல்வராஜ்",
     "gender": "Boy",
@@ -3240,6 +3424,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "215",
     "name_en": "Yamini Devi",
     "name_ta": "யாழினி தேவி",
     "gender": "Girl",
@@ -3255,6 +3440,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "216",
     "name_en": "Arul",
     "name_ta": "அருள்",
     "gender": "Boy",
@@ -3270,6 +3456,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "217",
     "name_en": "Vasantha Lakshmi",
     "name_ta": "வசந்தலட்சுமி",
     "gender": "Girl",
@@ -3285,6 +3472,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "218",
     "name_en": "Perumal",
     "name_ta": "பெருமாள்",
     "gender": "Boy",
@@ -3300,6 +3488,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "219",
     "name_en": "Suganya Devi",
     "name_ta": "சுகன்யா தேவி",
     "gender": "Girl",
@@ -3315,6 +3504,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "220",
     "name_en": "Ashwin",
     "name_ta": "அஸ்வின்",
     "gender": "Boy",
@@ -3330,6 +3520,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "221",
     "name_en": "Bhuvaneswari",
     "name_ta": "புவனேஸ்வரி",
     "gender": "Girl",
@@ -3345,6 +3536,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "222",
     "name_en": "Dhurai",
     "name_ta": "துரை",
     "gender": "Boy",
@@ -3360,6 +3552,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "223",
     "name_en": "Malathi",
     "name_ta": "மாலாதி",
     "gender": "Girl",
@@ -3375,6 +3568,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "224",
     "name_en": "Muthusamy",
     "name_ta": "முத்துசாமி",
     "gender": "Boy",
@@ -3383,13 +3577,14 @@
     "starting_syllable_en": "Mu",
     "starting_syllable_ta": "முத்",
     "tag_en": ["Traditional", "Spiritual"],
-    "tag_ta": ["பாரம்பரியம்", "ஆன்மிகம்"],
+    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
     "religion_en": "Hindu",
     "religion_ta": "இந்து",
     "origin_en": "Tamil",
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "225",
     "name_en": "Kavya Shree",
     "name_ta": "காவ்யஸ்ரீ",
     "gender": "Girl",
@@ -3405,6 +3600,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "226",
     "name_en": "Thangam",
     "name_ta": "தங்கம்",
     "gender": "Unisex",
@@ -3420,6 +3616,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "227",
     "name_en": "Sarvesh",
     "name_ta": "சர்வேஷ்",
     "gender": "Boy",
@@ -3435,6 +3632,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "228",
     "name_en": "Vanaja",
     "name_ta": "வனஜா",
     "gender": "Girl",
@@ -3450,6 +3648,7 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
+    "id": "229",
     "name_en": "Balakrishnan",
     "name_ta": "பாலகிருஷ்ணன்",
     "gender": "Boy",
@@ -3465,6 +3664,7 @@
     "origin_ta": "தமிழ்"
   },
   {
+    "id": "230",
     "name_en": "Karthik Raja",
     "name_ta": "கார்த்திக் ராஜா",
     "gender": "Boy",
@@ -3478,4 +3678,436 @@
     "religion_ta": "இந்து",
     "origin_en": "Tamil",
     "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "231",
+    "name_en": "Divya Bharathi",
+    "name_ta": "திவ்ய பாரதி",
+    "gender": "Girl",
+    "meaning_en": "Divine knowledge",
+    "meaning_ta": "தெய்வீக அறிவு",
+    "starting_syllable_en": "Di",
+    "starting_syllable_ta": "தி",
+    "tag_en": ["Spiritual", "Elegant"],
+    "tag_ta": ["ஆன்மிகம்", "நேர்த்தியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "232",
+    "name_en": "Gokulraj",
+    "name_ta": "கோகுல்ராஜ்",
+    "gender": "Boy",
+    "meaning_en": "King of Gokul",
+    "meaning_ta": "கோகுல் ராஜா",
+    "starting_syllable_en": "Go",
+    "starting_syllable_ta": "கோ",
+    "tag_en": ["Royal", "Mythological"],
+    "tag_ta": ["ராஜ", "புராண"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "233",
+    "name_en": "Ramakrishna",
+    "name_ta": "ராமகிருஷ்ணா",
+    "gender": "Boy",
+    "meaning_en": "Lord Rama and Krishna combined",
+    "meaning_ta": "ராமர் மற்றும் கிருஷ்ணர் இணைந்த",
+    "starting_syllable_en": "Ra",
+    "starting_syllable_ta": "ரா",
+    "tag_en": ["Spiritual", "Mythological"],
+    "tag_ta": ["ஆன்மிகம்", "புராண"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "234",
+    "name_en": "Shanti Devi",
+    "name_ta": "சாந்தி தேவி",
+    "gender": "Girl",
+    "meaning_en": "Goddess of peace",
+    "meaning_ta": "அமைதியின் தெய்வம்",
+    "starting_syllable_en": "Shan",
+    "starting_syllable_ta": "சாந்",
+    "tag_en": ["Divine", "Calm"],
+    "tag_ta": ["தெய்வீக", "அமைதியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "235",
+    "name_en": "Velavan",
+    "name_ta": "வேலவன்",
+    "gender": "Boy",
+    "meaning_en": "Lord Muruga",
+    "meaning_ta": "முருகன்",
+    "starting_syllable_en": "Ve",
+    "starting_syllable_ta": "வே",
+    "tag_en": ["Spiritual", "Traditional"],
+    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "236",
+    "name_en": "Suganthi",
+    "name_ta": "சுகந்தி",
+    "gender": "Girl",
+    "meaning_en": "Good fragrance",
+    "meaning_ta": "நல்ல மணம்",
+    "starting_syllable_en": "Su",
+    "starting_syllable_ta": "சு",
+    "tag_en": ["Nature", "Pleasant"],
+    "tag_ta": ["இயற்கை", "மகிழ்ச்சியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "237",
+    "name_en": "Muthiah",
+    "name_ta": "முத்தையா",
+    "gender": "Boy",
+    "meaning_en": "Lord Shiva, pearl-like",
+    "meaning_ta": "சிவன், முத்து போன்ற",
+    "starting_syllable_en": "Mu",
+    "starting_syllable_ta": "முத்",
+    "tag_en": ["Spiritual", "Traditional"],
+    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "238",
+    "name_en": "Chitra Devi",
+    "name_ta": "சித்ரா தேவி",
+    "gender": "Girl",
+    "meaning_en": "Goddess of picture",
+    "meaning_ta": "படத்தின் தெய்வம்",
+    "starting_syllable_en": "Chi",
+    "starting_syllable_ta": "சித்",
+    "tag_en": ["Artistic", "Divine"],
+    "tag_ta": ["கலைநயம்", "தெய்வீக"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "239",
+    "name_en": "Sundari",
+    "name_ta": "சுந்தரி",
+    "gender": "Girl",
+    "meaning_en": "Beautiful",
+    "meaning_ta": "அழகான",
+    "starting_syllable_en": "Sun",
+    "starting_syllable_ta": "சுந்",
+    "tag_en": ["Positive", "Elegant"],
+    "tag_ta": ["நேர்மறை", "நேர்த்தியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "240",
+    "name_en": "Thangamani",
+    "name_ta": "தங்கமணி",
+    "gender": "Unisex",
+    "meaning_en": "Golden jewel",
+    "meaning_ta": "தங்க ரத்தினம்",
+    "starting_syllable_en": "Than",
+    "starting_syllable_ta": "தங்",
+    "tag_en": ["Precious", "Traditional"],
+    "tag_ta": ["விலைமதிப்பற்ற", "பாரம்பரியம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "241",
+    "name_en": "Sarveswari",
+    "name_ta": "சர்வேஸ்வரி",
+    "gender": "Girl",
+    "meaning_en": "Goddess of all",
+    "meaning_ta": "எல்லாவற்றின் தெய்வம்",
+    "starting_syllable_en": "Sar",
+    "starting_syllable_ta": "சர்",
+    "tag_en": ["Divine", "Powerful"],
+    "tag_ta": ["தெய்வீக", "சக்திவாய்ந்த"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "242",
+    "name_en": "Vasanthamani",
+    "name_ta": "வசந்தாமணி",
+    "gender": "Girl",
+    "meaning_en": "Jewel of spring",
+    "meaning_ta": "வசந்தத்தின் ரத்தினம்",
+    "starting_syllable_en": "Va",
+    "starting_syllable_ta": "வ",
+    "tag_en": ["Nature", "Precious"],
+    "tag_ta": ["இயற்கை", "விலைமதிப்பற்ற"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "243",
+    "name_en": "Periyanan",
+    "name_ta": "பெரியண்ணன்",
+    "gender": "Boy",
+    "meaning_en": "Elder brother (respected)",
+    "meaning_ta": "பெரிய அண்ணன் (மரியாதைக்குரிய)",
+    "starting_syllable_en": "Pe",
+    "starting_syllable_ta": "பெரி",
+    "tag_en": ["Traditional", "Respectful"],
+    "tag_ta": ["பாரம்பரியம்", "மரியாதைக்குரிய"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "244",
+    "name_en": "Bhuvanesh",
+    "name_ta": "புவனே",
+    "gender": "Boy",
+    "meaning_en": "Lord of the world",
+    "meaning_ta": "உலகின் இறைவன்",
+    "starting_syllable_en": "Bhu",
+    "starting_syllable_ta": "புவ",
+    "tag_en": ["Spiritual", "Powerful"],
+    "tag_ta": ["ஆன்மிகம்", "சக்திவாய்ந்த"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "245",
+    "name_en": "Malika",
+    "name_ta": "மாலிகா",
+    "gender": "Girl",
+    "meaning_en": "Queen, jasmine",
+    "meaning_ta": "ராணி, மல்லிகை",
+    "starting_syllable_en": "Ma",
+    "starting_syllable_ta": "மா",
+    "tag_en": ["Royal", "Nature"],
+    "tag_ta": ["ராஜ", "இயற்கை"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Arabic",
+    "origin_ta": "அரபு"
+  },
+  {
+    "id": "246",
+    "name_en": "Muthuraman",
+    "name_ta": "முத்துராமன்",
+    "gender": "Boy",
+    "meaning_en": "Lord Rama (like pearl)",
+    "meaning_ta": "ராமர் (முத்து போன்ற)",
+    "starting_syllable_en": "Mu",
+    "starting_syllable_ta": "முத்",
+    "tag_en": ["Spiritual", "Traditional"],
+    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "247",
+    "name_en": "Aishwarya",
+    "name_ta": "ஐஸ்வர்யா",
+    "gender": "Girl",
+    "meaning_en": "Prosperity, wealth",
+    "meaning_ta": "செழிப்பு, செல்வம்",
+    "starting_syllable_en": "Ai",
+    "starting_syllable_ta": "ஐஸ்",
+    "tag_en": ["Luxurious", "Modern"],
+    "tag_ta": ["ஆடம்பரமான", "நவீன"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "248",
+    "name_en": "Saravanan",
+    "name_ta": "சரவணன்",
+    "gender": "Boy",
+    "meaning_en": "Lord Muruga",
+    "meaning_ta": "முருகன்",
+    "starting_syllable_en": "Sa",
+    "starting_syllable_ta": "ச",
+    "tag_en": ["Traditional", "Spiritual"],
+    "tag_ta": ["பாரம்பரியம்", "ஆன்மிகம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "249",
+    "name_en": "Vani",
+    "name_ta": "வாணி",
+    "gender": "Girl",
+    "meaning_en": "Goddess Saraswati, speech",
+    "meaning_ta": "சரஸ்வதி தேவி, பேச்சு",
+    "starting_syllable_en": "Va",
+    "starting_syllable_ta": "வா",
+    "tag_en": ["Divine", "Short"],
+    "tag_ta": ["தெய்வீக", "குறுகிய"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "250",
+    "name_en": "Balachandran",
+    "name_ta": "பாலசந்திரன்",
+    "gender": "Boy",
+    "meaning_en": "Young moon",
+    "meaning_ta": "இளம் சந்திரன்",
+    "starting_syllable_en": "Ba",
+    "starting_syllable_ta": "பா",
+    "tag_en": ["Nature", "Classic"],
+    "tag_ta": ["இயற்கை", "பாரம்பரிய"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "251",
+    "name_en": "Karthika Shree",
+    "name_ta": "கார்த்திகா ஸ்ரீ",
+    "gender": "Girl",
+    "meaning_en": "Auspicious Kritika star",
+    "meaning_ta": "சுபமான கார்த்திகை நட்சத்திரம்",
+    "starting_syllable_en": "Kar",
+    "starting_syllable_ta": "கா",
+    "tag_en": ["Astrological", "Divine"],
+    "tag_ta": ["ஜோதிட", "தெய்வீக"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "252",
+    "name_en": "Sundaravel",
+    "name_ta": "சுந்தரவேல்",
+    "gender": "Boy",
+    "meaning_en": "Beautiful spear (Muruga's Vel)",
+    "meaning_ta": "அழகான வேல் (முருகனின் வேல்)",
+    "starting_syllable_en": "Sun",
+    "starting_syllable_ta": "சுந்",
+    "tag_en": ["Spiritual", "Traditional"],
+    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "253",
+    "name_en": "Nandhini Devi",
+    "name_ta": "நந்தினி தேவி",
+    "gender": "Girl",
+    "meaning_en": "Delightful goddess",
+    "meaning_ta": "மகிழ்ச்சியான தேவி",
+    "starting_syllable_en": "Nan",
+    "starting_syllable_ta": "நந்",
+    "tag_en": ["Divine", "Pleasant"],
+    "tag_ta": ["தெய்வீக", "மகிழ்ச்சியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "254",
+    "name_en": "Vasantha Kumari",
+    "name_ta": "வசந்த குமாரன்",
+    "gender": "Girl",
+    "meaning_en": "Princess of spring",
+    "meaning_ta": "வசந்தத்தின் இளவரசி",
+    "starting_syllable_en": "Va",
+    "starting_syllable_ta": "வ",
+    "tag_en": ["Nature", "Royal"],
+    "tag_ta": ["இயற்கை", "ராஜ"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "255",
+    "name_en": "Manjula",
+    "name_ta": "மஞ்சுளா",
+    "gender": "Girl",
+    "meaning_en": "Pleasing, sweet",
+    "meaning_ta": "மகிழ்ச்சியூட்டும், இனிமையான",
+    "starting_syllable_en": "Man",
+    "starting_syllable_ta": "மஞ்",
+    "tag_en": ["Pleasant", "Elegant"],
+    "tag_ta": ["மகிழ்ச்சியூட்டும்", "நேர்த்தியான"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
+  },
+  {
+    "id": "256",
+    "name_en": "Sakthimurthy",
+    "name_ta": "சக்திமூர்த்தி",
+    "gender": "Boy",
+    "meaning_en": "Idol of power",
+    "meaning_ta": "சக்தியின் உருவம்",
+    "starting_syllable_en": "Sak",
+    "starting_syllable_ta": "சக்",
+    "tag_en": ["Spiritual", "Powerful"],
+    "tag_ta": ["ஆன்மிகம்", "சக்திவாய்ந்த"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Tamil",
+    "origin_ta": "தமிழ்"
+  },
+  {
+    "id": "257",
+    "name_en": "Thulasi Vasanth",
+    "name_ta": "துளசி வசந்த்",
+    "gender": "Boy",
+    "meaning_en": "Spring of Tulasi",
+    "meaning_ta": "துளசி வசந்தம்",
+    "starting_syllable_en": "Thu",
+    "starting_syllable_ta": "து",
+    "tag_en": ["Nature", "Religious"],
+    "tag_ta": ["இயற்கை", "மத"],
+    "religion_en": "Hindu",
+    "religion_ta": "இந்து",
+    "origin_en": "Sanskrit",
+    "origin_ta": "சமஸ்கிருதம்"
   }]
