@@ -1,4 +1,19 @@
 [{
+  "id": "85",
+  "name_en": "Vadivel",
+  "name_ta": "வடிவேல்",
+  "gender": "Boy",
+  "meaning_en": "Spear of Lord Murugan; Another name of Lord Murugan",
+  "meaning_ta": "முருகனின் வேல்; முருகனின் இன்னொரு பெயர்",
+  "starting_syllable_en": "Va",
+  "starting_syllable_ta": "வ",
+  "tag_en": ["Traditional", "Divine"],
+  "tag_ta": ["பாரம்பரியம்", "தெய்வீகம்"],
+  "religion_en": "Hindu",
+  "religion_ta": "இந்து",
+  "origin_en": "Tamil",
+  "origin_ta": "தமிழ்"
+},{
   "id": "0",
   "name_en": "Balaji",
   "name_ta": "பாலாஜி",
