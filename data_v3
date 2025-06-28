@@ -1,4 +1,19 @@
-[
+[{
+  "id": "0",
+  "name_en": "Balaji",
+  "name_ta": "பாலாஜி",
+  "gender": "Boy",
+  "meaning_en": "Another name of Lord Vishnu; Lord Venkateshwara",
+  "meaning_ta": "விஷ்ணு பெருமானின் மற்றொரு பெயர்; வெங்கடேஷ்வர பெருமான்",
+  "starting_syllable_en": "Ba",
+  "starting_syllable_ta": "பா",
+  "tag_en": ["Traditional", "Popular"],
+  "tag_ta": ["பாரம்பரியம்", "பிரபலமானது"],
+  "religion_en": "Hindu",
+  "religion_ta": "இந்து",
+  "origin_en": "Sanskrit",
+  "origin_ta": "சமஸ்கிருதம்"
+},
   {
     "id": "1",
     "name_en": "Karthik",
