@@ -1054,22 +1054,6 @@
     "origin_ta": "சமஸ்கிருதம்"
   },
   {
-    "id": "65",
-    "name_en": "Balaji",
-    "name_ta": "பாலாஜி",
-    "gender": "Boy",
-    "meaning_en": "Lord Vishnu",
-    "meaning_ta": "விஷ்ணு",
-    "starting_syllable_en": "Ba",
-    "starting_syllable_ta": "பா",
-    "tag_en": ["Spiritual", "Traditional"],
-    "tag_ta": ["ஆன்மிகம்", "பாரம்பரியம்"],
-    "religion_en": "Hindu",
-    "religion_ta": "இந்து",
-    "origin_en": "Tamil",
-    "origin_ta": "தமிழ்"
-  },
-  {
     "id": "66",
     "name_en": "Shruti",
     "name_ta": "ஷ்ருதி",
